@@ -1,0 +1,1 @@
+"C:\Archivos de programa\R\R-3.0.0\bin\RScript.exe" "C:\ProcesosR\StemfiliumPeral2013\ManchaNegraPeral.R"
